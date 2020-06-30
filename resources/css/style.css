@@ -209,4 +209,8 @@ footer {
     .showcase p1 {
         font-size: 15px;
       }
+    
+    body {
+        padding: 0px;
+        margin: 8px;
 }
