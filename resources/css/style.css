@@ -201,4 +201,12 @@ footer {
         "top-box-a"
         "top-box-b";
     }
+    
+    .showcase h1 {
+        font-size: 15px;
+      }
+
+    .showcase p1 {
+        font-size: 15px;
+      }
 }
