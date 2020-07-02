@@ -237,4 +237,9 @@ footer {
     .info {
         padding: 16px;
     }
+    
+    div {
+    padding: 5px;
+    margin: 0px;
+    }
 }
