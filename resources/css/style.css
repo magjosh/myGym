@@ -222,7 +222,7 @@ footer {
         padding: 10px;
     }
 
-    .top-box .price {
+    .top-box .price, p1 {
         font-size: 15px;
     }
 
