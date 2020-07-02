@@ -238,6 +238,10 @@ footer {
         padding: 16px;
     }
     
+    h2 {
+        margin: 0px;
+    }
+    
     div {
     padding: 5px;
     margin: 0px;
